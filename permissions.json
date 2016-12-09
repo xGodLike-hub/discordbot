@@ -1,0 +1,33 @@
+{
+  "global": {
+    "eval": false,
+    "pullanddeploy": false,
+    "setUsername": false,
+    "online": false,
+    "msg": false,
+    "topic": false,
+    "alias": false,
+    "delete": false,
+    "voice": false,
+    "create": false,
+    "log": false,
+    "version": false,
+    "idle": false
+  },
+  "users": {
+    "254761597724000256": {
+      "eval": false,
+      "pullanddeploy": true,
+      "online": true,
+      "msg": true,
+      "topic": true,
+      "alias": true,
+      "delete": true,
+      "voice": true,
+      "create": true,
+      "log": true,
+      "version": true,
+      "idle": true
+    }
+  }
+}
